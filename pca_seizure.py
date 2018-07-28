@@ -67,14 +67,14 @@ print num_principal_components
 pca = PCA(n_components = num_principal_components)
 final_principalComponents = pca.fit_transform(feature_dataset)
 
-x_train = np.load("x_train_unbalanced.npy")
-x_test = np.load("x_test_unbalanced.npy")
-
-x_train = pca.fit_transform(x_train)
-x_test = pca.fit_transform(x_test)
-
-np.save("x_train_transformed_unbalanced",x_train)
-np.save("x_test_transformed_unbalanced",x_test)
+# x_train = np.load("x_train_unbalanced.npy")
+# x_test = np.load("x_test_unbalanced.npy")
+#
+# x_train = pca.fit_transform(x_train)
+# x_test = pca.fit_transform(x_test)
+#
+# np.save("x_train_transformed_unbalanced",x_train)
+# np.save("x_test_transformed_unbalanced",x_test)
 
 x_train = np.load("x_train_balanced.npy")
 x_test = np.load("x_test_balanced.npy")
