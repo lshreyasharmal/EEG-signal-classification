@@ -6,5 +6,5 @@ Electroencephalography(EEG) is an electrophysiological monitoring method to reco
 
 The datasets on which we experimented : [Seizure vs Non-Seizure](https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition) and [Alcoholic vs Non-Alcoholic](https://archive.ics.uci.edu/ml/datasets/EEG+Database)
 
-Team: (Shreya Sharma)[https://www.linkedin.com/in/shreya-sharma-1ab130112/], (Aayushi Malik)[https://www.linkedin.com/in/aayushi-malik-7522a7185/]
+Team: [Shreya Sharma](https://www.linkedin.com/in/shreya-sharma-1ab130112/), [Aayushi Malik](https://www.linkedin.com/in/aayushi-malik-7522a7185/)
 
